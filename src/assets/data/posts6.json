@@ -235,7 +235,7 @@
                 "play_addr": {
                     "uri": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e14fbead6f64c9095272935ceb005e4",
                     "url_list": [
-                        "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e14fbead6f64c9095272935ceb005e4",
+                        "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7e14fbead6f64c9095272935ceb005e4"
                     ],
                     "width": 720,
                     "height": 720,
@@ -244,7 +244,7 @@
                 "cover": {
                     "uri": "tos-cn-i-0813c001/oADwmAQ8cADvgWA3IeCACPa2ACFm9WoE4AZ2fA",
                     "url_list": [
-                        "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oADwmAQ8cADvgWA3IeCACPa2ACFm9WoE4AZ2fA~noop.jpeg?x-expires=1721692800\u0026x-signature=%2BKUgdN0nBEATLQ32zi1XloK2Xos%3D\u0026from=327834062\u0026s=PackSourceEnum_PUBLISH\u0026se=false\u0026biz_tag=pcweb_cover\u0026l=20240709080525B6096DCFB943315EE20F",
+                        "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oADwmAQ8cADvgWA3IeCACPa2ACFm9WoE4AZ2fA~noop.jpeg?x-expires=1721692800\u0026x-signature=%2BKUgdN0nBEATLQ32zi1XloK2Xos%3D\u0026from=327834062\u0026s=PackSourceEnum_PUBLISH\u0026se=false\u0026biz_tag=pcweb_cover\u0026l=20240709080525B6096DCFB943315EE20F"
                     ],
                     "width": 720,
                     "height": 720
@@ -2633,7 +2633,7 @@
                 "play_addr": {
                     "uri": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/ies-music/7153970622157032200.mp3",
                     "url_list": [
-                        "https://sf5-hl-cdn-tos.douyinstatic.com/obj/ies-music/7153970622157032200.mp3",
+                        "https://sf5-hl-cdn-tos.douyinstatic.com/obj/ies-music/7153970622157032200.mp3"
                     ],
                     "width": 720,
                     "height": 720,
@@ -3182,7 +3182,7 @@
                 "play_addr": {
                     "uri": "https://sf5-hl-cdn-tos.douyinstatic.com/obj/ies-music/7368016402269670170.mp3",
                     "url_list": [
-                        "https://sf5-hl-cdn-tos.douyinstatic.com/obj/ies-music/7368016402269670170.mp3",
+                        "https://sf5-hl-cdn-tos.douyinstatic.com/obj/ies-music/7368016402269670170.mp3"
                     ],
                     "width": 720,
                     "height": 720,
